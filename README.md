@@ -55,5 +55,10 @@ npm run build
 npm run lint
 ```
 
+### axios
+```
+npm install axios
+```
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
