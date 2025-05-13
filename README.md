@@ -7,19 +7,19 @@ e-commerce berbasis website yang dibangun menggunakan **Vue.js (frontend)** deng
 ## 🌐 Tampilan Antarmuka
 
 ### 🏠 Halaman Utama
-![Homepage Screenshot](./assets/mainpage.png)
+![Homepage Screenshot](./src/assets/mainpage.png)
 
 ### 👕 Halaman Produk Pria
-![Men Products Screenshot](./assets/menpage.png)
+![Men Products Screenshot](./src/assets/menpage.png)
 
 ### 👗 Halaman Produk Wanita
-![Women Products Screenshot](./assets/womanpage.png)
+![Women Products Screenshot](./src/assets/womanpage.png)
 
 ### 🛒 Halaman Produk Wanita
-![Women Products Screenshot](./assets/detailpage.png)
+![Detail Products Screenshot](./src/assets/detailpage.png)
 
 ### ❌ Halaman Produk Tidak Tersedia
-![Unavailable Screenshot](./assets/unavailpage.png)
+![Unavailable Screenshot](./src/assets/unavailpage.png)
 
 ---
 
